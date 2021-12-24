@@ -15,8 +15,8 @@
  <div>
    If you face issues on npm start then you can run these commands
    
-     <div>npm intall @material-ui/core</div>
-     <div>npm install @material-ui/style</div>
+     npm intall @material-ui/core
+     npm install @material-ui/style
    
   </div>
  
