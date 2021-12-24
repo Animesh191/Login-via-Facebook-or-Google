@@ -4,8 +4,14 @@
   <b> git clone REPO_URL
   </b>
 </li>
-  <li>To to your source folder where you have cloned this file
+  <li>Into the source folder where you have cloned this repo
     and run command <b>npm install</b>
   </li>
-  <li>Run command <b>npm start</b> and pp will be live on <b>localhost:3000</b>
+  <li>Run command <b>npm start</b> and app will be live on <b>localhost:3000</b>
   </li>
+ <div>
+   If you face issues on npm start then you can run this two commands
+   <ol>
+     <li>npm intall @material-ui/core</li>
+     <li>npm install @material-ui/style</li>
+   </ol>
