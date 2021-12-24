@@ -10,7 +10,7 @@
   <li>Run command <b>npm start</b> and app will be live on <b>localhost:3000</b>
   </li>
  <div>
-   If you face issues on npm start then you can run this two commands
+   If you face issues on npm start then you can run these commands
    <ol>
      <li>npm intall @material-ui/core</li>
      <li>npm install @material-ui/style</li>
