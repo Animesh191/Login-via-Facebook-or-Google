@@ -1,3 +1,5 @@
+![Screenshot (632)](https://user-images.githubusercontent.com/60816072/147345914-b2a248c2-5710-4b62-acec-1408fb74e6f1.png)
+
 <b>To run this app follow the steps below:</b>
 <ol>
 <li>Clone this repository into your local system using command 
